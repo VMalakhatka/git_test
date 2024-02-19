@@ -330,7 +330,7 @@
   501 33612     1   0  5:43AM ??         0:01.46 /usr/libexec/tipsd
   501 34584   468   0  6:28AM ??         0:00.00 <defunct>
     0 34640     1   0  6:32AM ??         0:00.46 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
-    0 34722     1   0  6:36AM ??         0:04.79 /usr/libexec/audioanalyticsd
+     0 34722     1   0  6:36AM ??         0:04.79 /usr/libexec/audioanalyticsd
   501 34869     1   0  6:40AM ??         4:09.90 /Applications/Telegram.app/Contents/MacOS/Telegram
   501 35425     1   0  7:19AM ??        16:03.21 /Applications/IntelliJ IDEA.app/Contents/MacOS/idea
   501 35436 35425   0  7:19AM ??         0:02.19 /Applications/IntelliJ IDEA.app/Contents/bin/fsnotifier
